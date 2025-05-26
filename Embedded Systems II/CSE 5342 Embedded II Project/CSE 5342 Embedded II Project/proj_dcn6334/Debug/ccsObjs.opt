@@ -1,0 +1,1 @@
+"./cli.obj" "./clock.obj" "./eeprom.obj" "./gpio.obj" "./hibernation.obj" "./i2c0.obj" "./i2c16bitaddressrw.obj" "./proj_dcn6334.obj" "./tString.obj" "./tm4c123gh6pm_startup_ccs.obj" "./uart0.obj" "./wait.obj" "../tm4c123gh6pm.cmd" -llibc.a 
